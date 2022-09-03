@@ -32,7 +32,7 @@ body{
 .firstsection-leftdiv{
     padding-top: 20px;
     padding-left: 40px;
-    /* padding-right: 40px; */
+    padding-right: 40px;
     height: 100%;
     width: 50%;
     background:var(--gray-color);
@@ -118,11 +118,13 @@ width: 224px;
 /* ==== third section starts here=== */
 .thirdsection{
     padding: 30px 0;
-    border: var( --black-color);
+    background: var(--gray-color);
+    /* border: var( --black-color); */
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    
 
 }
 .thirdsection-leftdiv{
@@ -165,3 +167,8 @@ footer{
     margin: 0 5px;
    } 
 /* ==== footer section ends here=== */
+
+.secondsection-rightdiv{
+    margin-left: 0;
+    margin-top: 30px;
+}
