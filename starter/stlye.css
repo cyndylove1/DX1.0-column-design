@@ -109,6 +109,13 @@ width: 224px;
     text-align: left;
     margin: 20px 0;
 }
+/* ==== second section ends here=== */
+
+
+
+
+
+/* ==== third section starts here=== */
 .thirdsection{
     padding: 30px 0;
     border: var( --black-color);
@@ -131,16 +138,30 @@ width: 224px;
     
 }
 .thirdsection-rightdiv p{
-text-align: center;
+text-align: left;
 margin: 20px 0;
 }
 
-
-
-/* ==== second section ends here=== */
-
-/* ==== third section starts here=== */
 /* ==== third section ends here=== */
 
 /* ==== footer section starts here=== */
+footer{
+    color: var(--white-color);
+    background: var(--main-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 30px;
+}
+.footericons-container{
+    text-align: center;
+    /* height: 100px; */
+    /* /* border: 3px solid black; * */
+    width: 200px;
+
+}
+  .footericons{
+    font-size: 25px;
+    margin: 0 5px;
+   } 
 /* ==== footer section ends here=== */
