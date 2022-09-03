@@ -21,14 +21,16 @@
 .firstsection-rightdiv{
     width: 40%;
 }
-link-holder{
+.link-holder{
     padding-left: 30px;
     /* border: 3px solid black; */
     flex-direction: column;
 
 }
 .link-holder h4{
-margin-bottom: 10px;
+    flex-direction: column;
+    padding-left: 30px;
+
 }
 .line{
     width: 150px;
@@ -59,6 +61,6 @@ footer{
     text-align: center;
 }
 }
-.
+
 /* ==== third section ends here=== */
 /* ==== third section ends here=== */
