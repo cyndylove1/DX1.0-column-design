@@ -55,7 +55,7 @@ background-position: bottom left;
 }
 .link-holder{
     /* border: 3px solid black; */
-    display: flex;
+    /* display: flex; */
     justify-content: space-evenly;
     color: var( --white-color);
     padding: 20px 0;
