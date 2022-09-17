@@ -23,7 +23,7 @@ ScrollReveal().reveal('.heading', {
 
      });
      
-     ScrollReveal().reveal('.footericons-container i', {
+     ScrollReveal().reveal('.footericons-container  i', {
         delay: 500,
         origin:"top",
         interval: 150
