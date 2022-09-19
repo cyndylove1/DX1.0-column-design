@@ -17,6 +17,8 @@
 .firstsection-leftdiv h1{
     font-size: 25px;
 }
+    
+
 
 .firstsection-rightdiv{
     width: 40%;
@@ -59,6 +61,10 @@
 footer{
     flex-direction: column;
     text-align: center;
+}
+.footericons-container{
+    display: flex;
+    justify-content: center;
 }
 }
 
