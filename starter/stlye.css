@@ -175,14 +175,17 @@ footer {
 
 .footericons-container {
     text-align: center;
-    width: 200px;
+    width: 100px;
     display: flex;
+    list-style: none;
+    justify-content: space-evenly;
 
 }
 
 .footericons {
     font-size: 25px;
     margin: 0 5px;
+    
 }
 
 /* ==== footer section ends here=== */
