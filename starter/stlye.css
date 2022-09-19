@@ -176,6 +176,7 @@ footer {
 .footericons-container {
     text-align: center;
     width: 200px;
+    display: flex;
 
 }
 
